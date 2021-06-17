@@ -1,1 +1,1 @@
-# go-to-braowser
+see also: https://github.com/DanTup/BrowserSelector
